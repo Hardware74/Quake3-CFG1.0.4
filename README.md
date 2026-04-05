@@ -4,7 +4,10 @@ Quake III Arena CFG creator for the dedicated server launcher
 ## Overview
 Quake3-CFG is a configuration management tool designed to enhance your gaming experience in Quake III Arena. This version, v1.0.3, introduces several new features aimed at providing better customization and enhanced server performance.
 
-## New Features
+## New Features 1.0.4
+- **CTF Specific Variables Added**: GUI change to enable "Captures to win" value, output to set variables for CTF .cfg only ensuring bots are enabled, inactivity kick after 3 minutes, forced respawn disable, friendly fire disabled
+
+## New Features 1.0.3
 - **Password Protect**: Users can now secure their servers with a password, ensuring only authorized players can join.
 - **Pure Server**: This feature allows servers to enforce integrity checks on files, ensuring that only "pure" files are used.
 - **Client Downloads**: Clients can now automatically download required files from the server, streamlining the player experience.
