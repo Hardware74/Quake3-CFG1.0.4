@@ -45,6 +45,7 @@ make build
 - A compatible operating system (List OS requirements here)
 
 ## Version History
+- **v1.0.4**: CTF Specific Variables Added
 - **v1.0.3**: Added password protection, pure server functionality, client downloads, and packet settings.
 - **v1.0.2**: Minor bug fixes and performance improvements.
 
