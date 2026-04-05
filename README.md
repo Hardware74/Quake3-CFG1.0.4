@@ -50,8 +50,6 @@ make build
 - **v1.0.2**: Minor bug fixes and performance improvements.
 
 ## Resources
-- [Official Quake III Arena Website](https://www.quake3arena.com)
-- [Community Forums](https://www.quake3arena.com/forums)
-- [Documentation and Support](https://www.quake3arena.com/support)
+- [Official ioQuake3 Website](https://ioquake3.org)
 
 For further assistance, please contact the support team or open an issue in this repository.
